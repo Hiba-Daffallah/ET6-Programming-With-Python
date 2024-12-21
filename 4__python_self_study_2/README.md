@@ -6,16 +6,16 @@ To prepare for the next steps in your Python journey, you should study these
 language features using your favorite resources in the language of your choice.
 You don't need to master them, just be familiar. Don’t forget to study using Documentation, Tests and Predictive Stepping!
 
-- [ ] **Collections**: dictionaries, tuples, sets
+- [x] **Collections**: dictionaries, tuples, sets
 - [ ] **Iteration**: `iter()`, `next()`, `enumerate()`
-- [ ] **F-Strings**: `f"... {expression} ..."`
-- [ ] **Data Types**: `None`
-- [ ] **Operators**: ones that weren't in Self-Study 1
+- [x] **F-Strings**: `f"... {expression} ..."`
+- [x] **Data Types**: `None`
+- [x] **Operators**: ones that weren't in Self-Study 1
 - [ ] **Parameters**: default values, `*args`, `**kwargs`, keyword-only
       parameters, positional-only parameters
 - [ ] **Arguments**: positional, keyword
-- [ ] **Control Flow**: `_ if _ else _`, `_ for _ in _`, `break`, `continue`
-- [ ] **Scope Modifiers**: `nonlocal var_name`, `global var_name`
+- [x] **Control Flow**: `_ if _ else _`, `_ for _ in _`, `break`, `continue`
+- [x] **Scope Modifiers**: `nonlocal var_name`, `global var_name`
 - [ ] **Modules**
 
 This list is also just a suggestion based on what you might need to solve
