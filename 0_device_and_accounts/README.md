@@ -58,19 +58,19 @@ your study time and to measure your progress:
 </details>
 
 - **Your Computer**:
-  - [ ] 🥚 **File System Management**: You can create and organize a new folder
+  - [x] 🥚 **File System Management**: You can create and organize a new folder
         in your personal computer for the materials you will study at Emerging
         Talent.
 - **Visual Studio Code**:
-  - [ ] 🥚 You can open a folder in a new window
-  - [ ] 🥚 You can add a new file to your folder
-  - [ ] 🥚 You can add a new folder inside your folder
-  - [ ] 🥚 You can delete a file
-  - [ ] 🥚 You can delete a folder
-  - [ ] 🥚 You can create a new Markdown document with the `.md` extension
-  - [ ] 🥚 You can write a Markdown document
-  - [ ] 🥚 You can preview a Markdown document
-  - [ ] 🐣 You can use keyboard shortcuts for as many of these tasks as possible
+  - [x] 🥚 You can open a folder in a new window
+  - [x] 🥚 You can add a new file to your folder
+  - [x] 🥚 You can add a new folder inside your folder
+  - [x] 🥚 You can delete a file
+  - [x] 🥚 You can delete a folder
+  - [x] 🥚 You can create a new Markdown document with the `.md` extension
+  - [x] 🥚 You can write a Markdown document
+  - [x] 🥚 You can preview a Markdown document
+  - [x] 🐣 You can use keyboard shortcuts for as many of these tasks as possible
         (_if you are using a desktop or laptop_)
 - **GitHub Code Spaces**: GitHub Codespaces allow you to use VSCode from a web
   browser if you have a mobile device, a tablet device, or you can't install
@@ -100,7 +100,7 @@ focusing on these topics.  Suggested Study is just a suggestion!  You can study 
 
 ### Create Your GitHub Account
 
-- [ ] Create a GitHub account if you don't have one already (_no matter what
+- [x] Create a GitHub account if you don't have one already (_no matter what
       device you are using_):
   - Choose a professional username
   - Add a short bio
@@ -109,7 +109,7 @@ focusing on these topics.  Suggested Study is just a suggestion!  You can study 
   - Optional links to your social media accounts
   - A link to your personal website if you have one
   - Your contact info, if you're comfortable sharing it publicly
-- [ ] Connect your computer to GitHub with SSH (_This deliverable is only
+- [x] Connect your computer to GitHub with SSH (_This deliverable is only
       required if you are using a laptop/desktop where you have a private
       account._)
   - This can be tricky! we're here to help each other on Slack, and there are
@@ -121,15 +121,15 @@ focusing on these topics.  Suggested Study is just a suggestion!  You can study 
 > device.
 
 - **Install these if you are using a laptop, desktop, mobile or tablet**
-  - [ ] [Slack](https://slack.com/downloads/) - for all Emerging Talent
+  - [x] [Slack](https://slack.com/downloads/) - for all Emerging Talent
         communication
-  - [ ] [Zoom](https://zoom.us/support/download) - for online class
+  - [x] [Zoom](https://zoom.us/support/download) - for online class
 - **Install these only if you are using a laptop or desktop**
-  - [ ] [Visual Studio Code](https://code.visualstudio.com/download) - used
+  - [x] [Visual Studio Code](https://code.visualstudio.com/download) - used
         write and edit your code
-  - [ ] [git](https://git-scm.com/downloads) for Mac and Linux, or
+  - [x] [git](https://git-scm.com/downloads) for Mac and Linux, or
         [git for windows](https://gitforwindows.org/)
-  - [ ] [Python](https://www.python.org/downloads/)
+  - [x] [Python](https://www.python.org/downloads/)
   - [oh my zsh](https://ohmyz.sh/) (optional): this will help you find your way
     around the CLI
   - GitHub Desktop (optional)

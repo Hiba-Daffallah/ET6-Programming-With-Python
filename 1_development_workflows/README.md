@@ -49,7 +49,7 @@ Markdown locally on your own computer using Visual Studio Code (VSCode), the
 Command Line Interface (CLI) to automate your code's quality
 (formatting, linting and spell checking).
 
-- [ ] 🥚 **Folder Structures**: You can explain how files and folders are stored
+- [x] 🥚 **Folder Structures**: You can explain how files and folders are stored
       in your computer and can find, open or create files in your computer
       without using the Command Line Interface.
 - 🥚 **Command Line Interface (CLI)**: In a Unix shell you can ...
@@ -59,7 +59,7 @@ Command Line Interface (CLI) to automate your code's quality
   - [ ] View the contents of a file using `cat`
   - [ ] Create new files using `touch`
   - [ ] Create new folders using `mkdir`
-- [ ] 🥚 **READMEs**: You can write a README file that describes the project you
+- [x] 🥚 **READMEs**: You can write a README file that describes the project you
       are working on, why it's helpful, and how someone can use it.
 - 🥚 **Formatting Markdown**: You can use Prettier to make sure all the code in
   your project is well-formatted:

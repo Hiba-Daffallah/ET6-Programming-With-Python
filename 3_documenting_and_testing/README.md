@@ -38,20 +38,20 @@ master all of the skills introduced in this workshop.
 
 ### Function Documentation
 
-- 🥚 You can read docstrings to understand a function's _behavior_.
-- 🥚 You can import a module from the Python REPL and use `help(file_name)` to
+- [x] 🥚 You can read docstrings to understand a function's _behavior_.
+- [x] 🥚 You can import a module from the Python REPL and use `help(file_name)` to
   read it's generated documentation:
   1. `cd` into the folder containing the file you want to study
   1. `$ python`
   1. `$ import file_name` _use the file name without `.py`!_
   1. `$ help(file_name)`
-- 🥚 You can distinguish between a function's **_behavior_**, **_strategy_** and
+- [x] 🥚 You can distinguish between a function's **_behavior_**, **_strategy_** and
   **_implementation_**.
-- 🥚 You can write a clear and complete _docstring_ to describe a function's
+- [x] 🥚 You can write a clear and complete _docstring_ to describe a function's
   _behavior_.
-- 🥚 You can write 2-3 _doctests_ to informally demonstrate a function's
+- [x] 🥚 You can write 2-3 _doctests_ to informally demonstrate a function's
   _behavior_. (white space matters in a docstring test case!)
-- 🥚 You can import a module from the Python REPL and use
+- [x] 🥚 You can import a module from the Python REPL and use
   `doctest.testmod(file_name, verbose=True)` to run a module's doctests:
   1. `cd` into the folder containing the file you want to study
   1. `$ python`
@@ -63,9 +63,9 @@ master all of the skills introduced in this workshop.
 
 - 🥚 You can use a _formatter_ and _linter_ to write code that follows community
   conventions.
-- 🥚 You can read and write type annotations to describe a function's _type
+- [x] 🥚 You can read and write type annotations to describe a function's _type
   signature_.
-- 🥚 You can write a clear and helpful name for a function, and use the same
+- [x] 🥚 You can write a clear and helpful name for a function, and use the same
   name for the file.
 - 🥚 You can write assertions in a function for _defensive programming_.
 - 🐣 You can write _self-documenting code_ that uses variable names and comments
@@ -79,8 +79,8 @@ master all of the skills introduced in this workshop.
 ### Function Testing
 
 - 🥚 You can use a sandbox file to informally explore a function's _behavior_.
-- 🥚 You can read and run unit tests to understand a function's _behavior_.
-- 🥚 You can import a module in your console and run its doctest.
-- 🥚 You can write a simple suite of unit tests with some boundary cases.
+- [x] 🥚 You can read and run unit tests to understand a function's _behavior_.
+- [x] 🥚 You can import a module in your console and run its doctest.
+- [x] 🥚 You can write a simple suite of unit tests with some boundary cases.
 - 🐣 You can write a full suite of unit tests including comprehensive boundary
   cases, assertions checks, and glass box tests.

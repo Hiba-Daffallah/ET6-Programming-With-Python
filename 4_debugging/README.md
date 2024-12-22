@@ -51,7 +51,7 @@ master all of the skills introduced in this workshop.
 
 - 🦆 You are not embarrassed to do some
   [rubber duck debugging](https://rubberduckdebugging.com/).
-- 🥚 You know that someone else will always use your program
+- [x] 🥚 You know that someone else will always use your program
   [in a way you didn't imagine](https://www.youtube.com/watch?v=CfCiW4UhqLo).
 - 🥚 You can study a program skeptically, always asking "_how can I break this
   program?_".

@@ -5,12 +5,13 @@ a program's execution, checking your predictions with using a debugger. After
 you have a basic familiarity with your debugger, this study method is simple and
 effective - it's like having a teacher by your side every day of the week!
 
-- [Learning Objectives](#learning-objectives)
-- [What is Programming?](#what-is-programming)
-- [Program State](#program-state)
-- [Studying the Examples and Exercises](#studying-the-examples-and-exercises)
-- [Prep Work](./prep_work.md)
-- [Lesson Plan](./lesson_plan.md)
+- [Predictive Stepping](#predictive-stepping)
+  - [What is Programming?](#what-is-programming)
+  - [Program State](#program-state)
+  - [Studying the Examples and Exercises](#studying-the-examples-and-exercises)
+  - [Learning Objectives](#learning-objectives)
+    - [VSCode Debugger](#vscode-debugger)
+    - [Other Visualization Tools](#other-visualization-tools)
 
 ---
 
@@ -110,34 +111,34 @@ your study time and to measure your progress:
 
 ### VSCode Debugger
 
-- 🥚 **Using Breakpoints**:
-  - You can add and remove breakpoints, before and while you are debugging a
+- [x] 🥚 **Using Breakpoints**:
+  - [x] You can add and remove breakpoints, before and while you are debugging a
     program.
-  - You can enable and disable breakpoints without removing them.
-- 🥚 **Launching the Debugger**: You can open the debugger pane and launch a
+  - [x] You can enable and disable breakpoints without removing them.
+- [x] 🥚 **Launching the Debugger**: You can open the debugger pane and launch a
   single-file Python program.
 - **Debugger Buttons**
-  - 🥚 **Skip Ahead**: You can skip ahead to the next breakpoint or the end of
+  - [x] 🥚 **Skip Ahead**: You can skip ahead to the next breakpoint or the end of
     the program.
-  - 🥚 **Step Over**: You can step _over_ a function call to ignore its
+  -  [x] 🥚 **Step Over**: You can step _over_ a function call to ignore its
     implementation.
-  - 🥚 **Step In**: You can step _into_ a function call to debug it's
+  -  [x] 🥚 **Step In**: You can step _into_ a function call to debug it's
     implementation.
-  - 🥚 **Step Out**: You can step _out of_ a function call to resume debugging
+  -  [x] 🥚 **Step Out**: You can step _out of_ a function call to resume debugging
     the main program.
-  - 🥚 **Restart**: You can restart your debugger at the beginning of the
+  -  [x] 🥚 **Restart**: You can restart your debugger at the beginning of the
     program.
-  - 🥚 **Exiting**: You can exit the debugger at any point of execution.
-- 🥚 **Reading State**: At each point in a program's execution, you can find the
+  -  [x] 🥚 **Exiting**: You can exit the debugger at any point of execution.
+-  [x] 🥚 **Reading State**: At each point in a program's execution, you can find the
   value of any declared variable in the Variables pane.
 - **The Call Stack**:
-  - 🥚 You understand the relationship to between the _callstack_ pane, _local
+  -  [x] 🥚 You understand the relationship to between the _callstack_ pane, _local
     variables_ and _function calls_.
-  - 🥚 You can view the local variables for each level of the callstack by
+  -  [x] 🥚 You can view the local variables for each level of the callstack by
     clicking on it.
-- 🐣 **Variable Categories**: You can explain the difference between _Locals_,
+-  [x] 🐣 **Variable Categories**: You can explain the difference between _Locals_,
   _Globals_, _Function Variables_, _Class Variables_, and _Special Variables_
-- 🐣 You can _predict_ a program's behavior while stepping through in the
+-  [x] 🐣 You can _predict_ a program's behavior while stepping through in the
   debugger:
   - Which line will execute next?
   - What will change in memory (_callstack_ and _variables_)?
@@ -157,7 +158,7 @@ your study time and to measure your progress:
     the console.
   - `$ python -m trace -c path/to/file.py`: generates a new `.cover` file
     indicating how many times each line of code was executed.
-- 🥚 You can use [Python Tutor](http://pythontutor.com/) to step through,
+-  [x] 🥚 You can use [Python Tutor](http://pythontutor.com/) to step through,
   visualize and predict program execution.
   - Python Tutor has a more approachable visualization than the VSCode Debugger,
     but can not handle large programs.
