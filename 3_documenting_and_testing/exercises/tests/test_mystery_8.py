@@ -26,4 +26,4 @@ class TestMystery8(unittest.TestCase):
         actual= searching(['wafaa','ibrahim','Mohammed'],'M')
         expected=  ['ibrahim', 'Mohammed']
         self.assertEqual(actual,expected)
-    def g(self):
+    
